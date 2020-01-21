@@ -1,0 +1,12 @@
+C:\Users\falvarez_ap\Source\Repos\DemonioCOM\DemonioCOM\bin\Debug\DemonioCOM.exe.config
+C:\Users\falvarez_ap\Source\Repos\DemonioCOM\DemonioCOM\bin\Debug\DemonioCOM.exe
+C:\Users\falvarez_ap\Source\Repos\DemonioCOM\DemonioCOM\bin\Debug\DemonioCOM.pdb
+C:\Users\falvarez_ap\Source\Repos\DemonioCOM\DemonioCOM\bin\Debug\System.Data.SQLite.dll
+C:\Users\falvarez_ap\Source\Repos\DemonioCOM\DemonioCOM\bin\Debug\Topshelf.dll
+C:\Users\falvarez_ap\Source\Repos\DemonioCOM\DemonioCOM\bin\Debug\System.Data.SQLite.xml
+C:\Users\falvarez_ap\Source\Repos\DemonioCOM\DemonioCOM\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\falvarez_ap\Source\Repos\DemonioCOM\DemonioCOM\bin\Debug\Topshelf.xml
+C:\Users\falvarez_ap\Source\Repos\DemonioCOM\DemonioCOM\obj\Debug\DemonioCOM.csprojAssemblyReference.cache
+C:\Users\falvarez_ap\Source\Repos\DemonioCOM\DemonioCOM\obj\Debug\DemonioCOM.csproj.CopyComplete
+C:\Users\falvarez_ap\Source\Repos\DemonioCOM\DemonioCOM\obj\Debug\DemonioCOM.exe
+C:\Users\falvarez_ap\Source\Repos\DemonioCOM\DemonioCOM\obj\Debug\DemonioCOM.pdb
